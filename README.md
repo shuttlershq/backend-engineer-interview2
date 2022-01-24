@@ -15,7 +15,7 @@ And given that this data has been provided for a period of one month.
 2. Write an algorithm that given a date and time in future, returns the estimated date and time of arrival for the vehicle on this travel route
 
 ### Data:
-The tables of interest on the db dump are vehicles, vehicle_telemetries and vehicle_boundary_events. Find the data needed on this repo `telemetry.sql`
+The tables of interest on the db dump are vehicles, vehicle_telemetries and vehicle_boundary_events. Find the data needed on this repo `vehicle_telemetry.sql`
 
 ### Test Criteria:
 * Use feature tests to demonstrate that the service meets the above criterias
